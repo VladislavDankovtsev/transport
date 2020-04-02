@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48c1eede-b365-49a6-bc65-5bf54a9b4dc9" name="Default Changelist" comment="" />
+    <list default="true" id="48c1eede-b365-49a6-bc65-5bf54a9b4dc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/transport/model/CheckConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/transport/controller/TransportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/transport/controller/TransportController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/transport/controller/TransportController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/transport/controller/TransportController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -32,15 +42,16 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.dankovtsev.transport.model" />
       <recent name="ru.dankovtsev.transport.other" />
       <recent name="ru.dankovtsev.transport.repository" />
-      <recent name="ru.dankovtsev.transport.model" />
       <recent name="ru.dankovtsev.transport.uuid" />
       <recent name="ru.dankovtsev.transport" />
     </key>
@@ -80,6 +91,7 @@
       <updated>1585658894234</updated>
       <workItem from="1585658897640" duration="3488000" />
       <workItem from="1585662862351" duration="20000" />
+      <workItem from="1585826407269" duration="313000" />
     </task>
     <servers />
   </component>

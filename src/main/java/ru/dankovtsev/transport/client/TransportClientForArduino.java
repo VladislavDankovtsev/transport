@@ -23,7 +23,6 @@ public class TransportClientForArduino {
                 Transport.class);
         responseEntity.getBody().setId(uuidRandom.randomkey());
         responseEntity.getBody().setTime(LocalDateTime.now());
-        System.out.println(responseEntity.getBody().toString());
         return responseEntity.getBody();
     }
 }
